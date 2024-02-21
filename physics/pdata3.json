@@ -1,0 +1,12 @@
+[
+  {
+    "question_id": 201,
+    "question_text": "Physics Question 201",
+    "options": [
+      { "option_id": 1, "option_text": "Option 1" },
+      { "option_id": 2, "option_text": "Option 2" },
+      { "option_id": 3, "option_text": "Option 3" }
+    ],
+    "correct_answer_ids": [1]
+  }
+]

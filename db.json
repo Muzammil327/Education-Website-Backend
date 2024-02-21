@@ -1,0 +1,31 @@
+{
+  "posts": [
+    { "id": "1", "title": "a title", "views": 100 },
+    { "id": "2", "title": "another title", "views": 200 }
+  ],
+  "comments": [
+    {
+      "question_id": 1,
+      "question_text": "What is the degree of the polynomial 3x^2 + 2x - 5?",
+      "options": [
+        { "option_id": 1, "option_text": "2" },
+        { "option_id": 2, "option_text": "3" },
+        { "option_id": 3, "option_text": "1" }
+      ],
+      "correct_answer_ids": [2]
+    },
+    {
+      "question_id": 2,
+      "question_text": "Which of the following is a polynomial of degree 4?",
+      "options": [
+        { "option_id": 4, "option_text": "2x^3 - x^2 + 4x - 3" },
+        { "option_id": 5, "option_text": "5x^4 + 3x^2 - 2x + 1" },
+        { "option_id": 6, "option_text": "x^2 + 2x - 3" }
+      ],
+      "correct_answer_ids": [2]
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
