@@ -12,7 +12,7 @@ const app = express();
 // app use
 app.use(cors({
     origin: [
-      "https://education-website-frontend-tawny.vercel.app",
+      "https://education-websitefrontend.vercel.app",
       "http://localhost:3000"
     ]
   }));
